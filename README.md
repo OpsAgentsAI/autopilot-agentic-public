@@ -4,7 +4,7 @@
 
 🎥 **Demo (2:45):** https://youtu.be/Aq7Dk8crQro
 🌐 **Live console:** https://autopilot-agentic-tzmww5pzea-uc.a.run.app
-🏢 **Built by:** [OpsAgents AI](https://opsagents.agency) (MSApps LTD).
+🏢 **Built by:** [OpsAgents AI](https://opsagents.agency).
 
 > **About this repository.** This is the public architecture and documentation repository for AutoPilot Agentic. The running implementation is a private production service; what is described here is its real design, and the demo video is captured from the live system. See [Why the implementation is not public](#why-the-implementation-is-not-public).
 
